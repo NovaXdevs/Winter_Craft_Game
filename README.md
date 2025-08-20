@@ -1,4 +1,4 @@
-# Minetest Game
+# Winter Craft Game
 
 [![ContentDB](https://content.luanti.org/packages/Minetest/minetest_game/shields/title/)](https://content.luanti.org/packages/Minetest/minetest_game/)
 
