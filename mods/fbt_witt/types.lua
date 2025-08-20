@@ -1,0 +1,11 @@
+
+---@class PlayerWitt
+---@field enabled boolean
+---@field show_objects boolean
+---@field show_liquids boolean
+---@field node_name string
+---@field hud_bg integer
+---@field hud_name integer
+---@field hud_modname integer
+---@field hud_description integer
+---@field hud_image integer
