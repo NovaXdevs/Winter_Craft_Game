@@ -1,0 +1,3 @@
+Some mods may have corrupted directory names — please review and correct them.  
+Some mods were not added due to GitHub’s file upload limits — check which ones are missing and upload them with a maximum of 100 files at a time.  
+Some mods were not uploaded because of the limited time available from the lead developer. The last mod uploaded is: item_drop.  
