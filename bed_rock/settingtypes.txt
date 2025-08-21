@@ -1,0 +1,3 @@
+
+#    If true, players sleeping on a bed rock are hurt on night skip.
+bed_rock.enable_sleep_damage (Sleeping on bed rocks hurts) bool true
