@@ -1,0 +1,13 @@
+# textdomain: sfinv_bags
+
+SF Inventory Bags=SF Сумки в інвентарі
+Add a Bags tab to your inventory with craftable bags for additional inventory space.=Додає вкладку у вашому інвентарі, що дозволяє розширити місце за допомогою сумок.
+
+Bag=Сумка
+Main=Головна
+Bags=Сумки
+Small Bag=Мала сумка
+Medium Bag=Середня сумка
+Large Bag=Велика сумка
+Trolley=Валіза
+Vegan Leather=Веганська шкіра
