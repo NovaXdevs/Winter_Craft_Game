@@ -1,0 +1,5 @@
+# textdomain:tph_eating
+
+Dynamic Input-Held Eating=
+
+Eating with particles, sounds, visible ItemStacks (5.4+), and holding down input. Heavy coding customization for programmers =

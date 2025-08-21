@@ -1,0 +1,14 @@
+# Play burping audio when finished eating
+tph_eating.burping (Enable Burping) bool true
+
+# Have a random chance playing a burp or not (requires burping to be enabled)
+# 0(or any decimal less than 1) to 100 percent
+tph_eating.burp_chance (Burp Chance) float 100.0
+
+# Permit any silly options added in mods that support Dynamic Input-Held Eating
+tph_eating.silly (Enable Supported Silly Stuff) bool false
+
+# Show a wielded ItemStack entity when eating
+# Does not work in versions lower than 5.4.0
+tph_eating.eating_item_entity (Show Eating ItemStack) bool true
+
