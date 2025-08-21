@@ -1,0 +1,4 @@
+Trivial things are licensed under CC0-1.0, code is under Apache-2.0, and nontrivial
+media under CC-BY-4.0. Look into the indiviual files and into REUSE.toml for details.
+
+This repo uses REUSE.
